@@ -24,5 +24,5 @@ To interact with our e-commerce backend and make use of its 34 API endpoints, re
 
 ## API Documentation
 
-[API Documentation](https://drive.google.com/file/d/1YBb3BVOHpwA55vYp9MLqC33J0QXjwcUY/view?usp=sharing)
+[API Documentation](https://drive.google.com/file/d/19EH3BcFDHHKy0AH_au3QAsOMh1rh05vq/view?usp=sharing)
 
